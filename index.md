@@ -43,6 +43,7 @@ We (Matthew and Anita) started Curious Being are doing so because we both work w
 
 - Join our online chat [on Discord](https://discord.gg/rgZbWTQxVF).
 - Attend [our Meetups](https://www.meetup.com/curious-being/) online and in-person.
+- Take a look at the [community calendar](https://calendar.google.com/calendar/embed?src=c_37b7e85c1a8e8f45692e210211bc773bec508811ed9a583a9a0d7aaefa52331d%40group.calendar.google.com&ctz=Europe%2FLondon) and find upcoming events.
 - Find out more about [Anita](https://www.linkedin.com/in/anitatoze-psychotherapist-consultant/) and [Matthew](https://www.linkedin.com/in/matthew-bellringer/).
 - Consider [donating](https://buy.stripe.com/fZe2aW9Y45491oscMM) to support the costs and development of the project.
 
