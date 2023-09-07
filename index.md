@@ -59,7 +59,7 @@ Our online space is held [on Discord](https://discord.gg/rgZbWTQxVF), and it's h
 
 ## Calendar of Events
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_37b7e85c1a8e8f45692e210211bc773bec508811ed9a583a9a0d7aaefa52331d%40group.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=Y18zN2I3ZTg1YzFhOGU4ZjQ1NjkyZTIxMDIxMWJjNzczYmVjNTA4ODExZWQ5YTU4M2E5YTBkN2FhZWZhNTIzMzFkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23EF6C00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## What's next?
 
