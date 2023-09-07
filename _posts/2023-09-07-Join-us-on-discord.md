@@ -12,7 +12,7 @@ If you want to be alerted about new events, this is the way to do that.
 
 Here's one of our members, Anya, explaining why we use it in about 150 seconds:
 
-![Image of video introduction](assets/img/CB Press play.png)](https://youtu.be/ckbTMjOE5bg)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ckbTMjOE5bg?si=8iGRP-F07TWp1FmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 New to Discord? Don't know how to sign up, or use it? Don't worry, it's all covered:
 
