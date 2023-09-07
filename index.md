@@ -4,6 +4,8 @@ title: Curious Being
 list_title: Recent posts
 ---
 
+![Graphic of friendly people waving.](https://github.com/curious-being-community/curious-being-community.github.io/blob/a963739b2d18bdf40cf1271e74fbe328db6a0ef9/assets/img/Curious%20Being%20Header.png) 
+
 ---
 > Do you think in unconventional ways? Do you feel intensely curious, but find it difficult to explore enough to satisfy your curiosity?
 >
@@ -13,11 +15,13 @@ list_title: Recent posts
 
 ---
 
-### [Support this project](https://buy.stripe.com/fZe2aW9Y45491oscMM)
+### [Please support this project, and help build this community together. Donate here!](https://buy.stripe.com/fZe2aW9Y45491oscMM)
 
 ## What is Curious Being?
 
-Curious Being is a space to express and develop our curious nature. To explore with others who feel similarly. Being in a community where being fully you is not only tolerated but welcomed, where you don’t have to pretend you’re something you’re not.
+Curious Being is a space to express and develop our curious nature and explore with others who feel similarly. 
+
+This means being in a community where being fully you is not only tolerated but welcomed, and where you don’t have to pretend you’re something you’re not.
 
 Some things to do within Curious Being:
 
@@ -25,7 +29,7 @@ Some things to do within Curious Being:
 - Engage with the things that matter most  - Find, share and explore ideas, interests and issues with others who are equally passionate.
 - Share knowledge and experience - Get and give support, tips and tricks to deal with barriers in life, and feeling supported.
 - Develop your exceptional skills - Use your unique talents to make meaningful change, in your personal life, your work, and in the world.
-- Have fun - Be creative and playful in ways that you enjoy, with others who get it too. Enjoy being you!
+- Have fun! - Be creative and playful in ways that you enjoy, with others who get it too. Enjoy being you!
 
 ## Who Curious Being is for
 
@@ -41,11 +45,21 @@ We (Matthew and Anita) started Curious Being are doing so because we both work w
 
 ## How to join in
 
-- Join our online chat [on Discord](https://discord.gg/rgZbWTQxVF).
+Our online space is held [on Discord](https://discord.gg/rgZbWTQxVF), and it's how we'll keep you up to date with our events. Click here to learn more [about how to sign up and get started](https://curiousbeing.org/2023/09/07/Join-us-on-discord.html). Community member Anya explain why we use this platform in about 150 seconds:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ckbTMjOE5bg?si=8iGRP-F07TWp1FmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Take your next step!
+
+- Become a member of our online community [on Discord](https://discord.gg/rgZbWTQxVF).
 - Attend [our Meetups](https://www.meetup.com/curious-being/) online and in-person.
 - Take a look at the [community calendar](https://calendar.google.com/calendar/embed?src=c_37b7e85c1a8e8f45692e210211bc773bec508811ed9a583a9a0d7aaefa52331d%40group.calendar.google.com&ctz=Europe%2FLondon) and find upcoming events.
 - Find out more about [Anita](https://www.linkedin.com/in/anitatoze-psychotherapist-consultant/) and [Matthew](https://www.linkedin.com/in/matthew-bellringer/).
 - Consider [donating](https://buy.stripe.com/fZe2aW9Y45491oscMM) to support the costs and development of the project.
+
+## Calendar of Events
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Europe%2FLondon&src=Y18zN2I3ZTg1YzFhOGU4ZjQ1NjkyZTIxMDIxMWJjNzczYmVjNTA4ODExZWQ5YTU4M2E5YTBkN2FhZWZhNTIzMzFkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23EF6C00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## What's next?
 
