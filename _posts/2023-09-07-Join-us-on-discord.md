@@ -16,7 +16,7 @@ Here's one of our members, Anya, explaining why we use it in about 150 seconds:
 
 New to Discord? Don't know how to sign up, or use it? Don't worry, it's all covered:
 
-![Image of Discord video introduction](assets/img/Screenshot 2023-09-07 161407.png)](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
+![Image of Discord video introduction](/assets/img/Screenshot 2023-09-07 161407.png)](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
 
 You've joined the server, and wondering what all of the buttons do? Fear not! Dicord have a great [Beginner's Guide right here](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord).
 
