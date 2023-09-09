@@ -4,8 +4,6 @@ title: Curious Being
 list_title: Recent posts
 ---
 
-![Graphic of friendly people waving.](https://github.com/curious-being-community/curious-being-community.github.io/blob/96655d3258f3f6f1524200f98e9c1beca0a47600/assets/img/Curious%20Being%20Header.png) 
-
 ---
 > Do you think in unconventional ways? Do you feel intensely curious, but find it difficult to explore enough to satisfy your curiosity?
 >
