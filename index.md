@@ -47,7 +47,8 @@ We (Matthew and Anita) started Curious Being are doing so because we both work w
 
 Our online space is held [on Discord](https://discord.gg/rgZbWTQxVF), and it's how we'll keep you up to date with our events. Click here to learn more [about how to sign up and get started](https://curiousbeing.org/2023/09/07/Join-us-on-discord.html). Community member Anya explain why we use this platform in about 150 seconds:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ckbTMjOE5bg?si=8iGRP-F07TWp1FmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->
+<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/curiousbeing/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_144710" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/curiousbeing/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="true" data-inline-show-logo="false" data-inline-bg-fill="false" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div><!-- End of Ticket Tailor Widget -->
 
 ## Take your next step!
 
