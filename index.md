@@ -15,7 +15,14 @@ list_title: Recent posts
 
 ---
 
+## Upcoming events
+
+<!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->
+<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/curiousbeing/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_144710" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/curiousbeing/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="true" data-inline-show-logo="false" data-inline-bg-fill="false" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div><!-- End of Ticket Tailor Widget -->
+
 ### [Please support this project, and help build this community together. Donate here!](https://buy.stripe.com/fZe2aW9Y45491oscMM)
+
+---
 
 ## What is Curious Being?
 
@@ -43,12 +50,6 @@ Many of us have not had the opportunity to identify and develop our strengths. C
 
 We (Matthew and Anita) started Curious Being are doing so because we both work with people who are curious, highly able, yet struggle to see and realise their full value. We both have lived experience in struggling to define ourselves according to conventional categories and of encountering the barriers that come with seeing the world differently.
 
-## How to join in
-
-Our online space is held [on Discord](https://discord.gg/rgZbWTQxVF), and it's how we'll keep you up to date with our events. Click here to learn more [about how to sign up and get started](https://curiousbeing.org/2023/09/07/Join-us-on-discord.html). Community member Anya explain why we use this platform in about 150 seconds:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ckbTMjOE5bg?si=8iGRP-F07TWp1FmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## Take your next step!
 
 - Become a member of our online community [on Discord](https://discord.gg/rgZbWTQxVF).
@@ -57,10 +58,6 @@ Our online space is held [on Discord](https://discord.gg/rgZbWTQxVF), and it's h
 - Find out more about [Matthew](https://www.linkedin.com/in/matthew-bellringer/), who organises the community.
 - Consider [donating](https://buy.stripe.com/fZe2aW9Y45491oscMM) to support the costs and development of the project.
 
-## Calendar of Events
-
-<!-- Ticket Tailor Widget. Paste this into your website where you want the widget to appear. Do not change the code or the widget may not work properly. -->
-<div class="tt-widget"><div class="tt-widget-fallback"><p><a href="https://www.tickettailor.com/all-tickets/curiousbeing/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" target="_blank">Click here to buy tickets</a><br /><small><a href="https://www.tickettailor.com?rf=wdg_144710" class="tt-widget-powered">Sell tickets online with Ticket Tailor</a></small></p></div><script src="https://cdn.tickettailor.com/js/widgets/min/widget.js" data-url="https://www.tickettailor.com/all-tickets/curiousbeing/?ref=website_widget&show_search_filter=true&show_date_filter=true&show_sort=true" data-type="inline" data-inline-minimal="true" data-inline-show-logo="false" data-inline-bg-fill="false" data-inline-inherit-ref-from-url-param="" data-inline-ref="website_widget"></script></div><!-- End of Ticket Tailor Widget -->
 
 ## What's next?
 
